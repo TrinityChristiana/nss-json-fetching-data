@@ -1,34 +1,39 @@
 {
     "food": [
-    {
-        "id": 1,
-        "name": "Fettachini",
-        "category": "pasta",
-        "ethnicity": "italian"
-    },
-    {
-        "id": 2,
-        "name": "Gumbo",
-        "category": "creole",
-        "ethnicity": "louisianan"
-    },
-    {
-        "id": 3,
-        "name": "Red Beans and Rice",
-        "category": "creole",
-        "ethnicity": "louisianan"
-    },
-    {
-        "id": 4,
-        "name": "Gyoza",
-        "category": "appetizer",
-        "ethnicity": "Japanese"
-    },
-    {
-        "id": 5,
-        "name": "Tuscan Soup",
-        "category": "vegetarian",
-        "ethnicity": "italian"
-    }
+        {
+            "id": 1,
+            "name": "Fettachini",
+            "category": "pasta",
+            "ethnicity": "italian",
+            "barcode": ""
+        },
+        {
+            "id": 2,
+            "name": "Gumbo",
+            "category": "creole",
+            "ethnicity": "louisianan",
+            "barcode": ""
+        },
+        {
+            "id": 3,
+            "name": "Red Beans and Rice",
+            "category": "creole",
+            "ethnicity": "louisianan",
+            "barcode": ""
+        },
+        {
+            "id": 4,
+            "name": "Gyoza",
+            "category": "appetizer",
+            "ethnicity": "Japanese",
+            "barcode": ""
+        },
+        {
+            "id": 5,
+            "name": "Tuscan Soup",
+            "category": "vegetarian",
+            "ethnicity": "italian",
+            "barcode": ""
+        }
     ]
 }
