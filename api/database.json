@@ -2,38 +2,38 @@
     "food": [
         {
             "id": 1,
-            "name": "Fettachini",
+            "name": "Fettuccine Alfredo",
             "category": "pasta",
             "ethnicity": "italian",
-            "barcode": ""
+            "barcode": "0076587103083"
         },
         {
             "id": 2,
             "name": "Gumbo",
             "category": "creole",
             "ethnicity": "louisianan",
-            "barcode": ""
+            "barcode": "0011110658500"
         },
         {
             "id": 3,
             "name": "Red Beans and Rice",
             "category": "creole",
             "ethnicity": "louisianan",
-            "barcode": ""
+            "barcode": "0054800420056"
         },
         {
             "id": 4,
             "name": "Gyoza",
             "category": "appetizer",
             "ethnicity": "Japanese",
-            "barcode": ""
+            "barcode": "5905279248069"
         },
         {
             "id": 5,
             "name": "Tuscan Soup",
             "category": "vegetarian",
             "ethnicity": "italian",
-            "barcode": ""
+            "barcode": "5000169116562"
         }
     ]
 }
